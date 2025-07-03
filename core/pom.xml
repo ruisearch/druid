@@ -295,7 +295,7 @@
 		<dependency>
 			<groupId>com.aliyun.odps</groupId>
 			<artifactId>odps-sdk-udf</artifactId>
-			<version>0.43.3-public</version>
+			<version>0.52.3-public</version>
 			<scope>provided</scope>
 			<optional>true</optional>
 			<exclusions>
